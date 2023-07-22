@@ -1,6 +1,6 @@
 {
     "name": "SMARTY HERE.",
-    "logo": "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg",
+    "logo": "https://graph.org/file/dcc6df9f320e875806383.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/PRADHAN474/ALSPAM",
+    "repository": "https://github.com/Smartycool/SPAM/edit/main/app.json,",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
