@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/THE_MAFIA_CLAN"><img src="https://graph.org/file/b0825ba6490d2aa6a6afd.jpg" width="400"></a></p>0
+<p align="center"><a href="https://t.me/THE_MAFIA_CLAN"><img src="https://graph.org/file/8f79d3c0d8a2b7d81d012.jpg" " width="400"></a></p>0
 
 
 > ⭐️ Thanks to everyone for using this op ™°‌𓂃⃪ํֶ𝙎𝙈𝘼𝙍𝙏𝙔. That is the greatest pleasure we have !
