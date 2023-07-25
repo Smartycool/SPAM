@@ -161,7 +161,7 @@ async def help_spam(event):
               buttons=[[Button.inline("< Back", data="help_back"),],],
               ) 
     else:
-        await event.answer("Make Your Own ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 Bots !! @PRADHAN474", cache_time=0, alert=True)
+        await event.answer("Make Your Own ™°‌ 𓂃⃪ํֶ𝙎𝙈𝘼𝙍𝙏𝙔 Bots !! @smarty_boy11", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"raid"))
@@ -180,7 +180,7 @@ async def help_raid(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
           )
     else:
-        await event.answer("Make Your Own ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 Bots !! @PRADHAN474", cache_time=0, alert=True)
+        await event.answer("Make Your Own ™°‌𓂃⃪ํֶ𝙎𝙈𝘼𝙍𝙏𝙔Bots !! @smarty_boy11", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"extra"))
@@ -199,4 +199,4 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
     else:
-        await event.answer("Make Your Own ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 Bots !! @PRADHAN474", cache_time=0, alert=True)
+        await event.answer("Make Your Own ™°‌ 𓂃⃪ํֶ𝙎𝙈𝘼𝙍𝙏𝙔 Bots !! @smarty_boy11", cache_time=0, alert=True)
