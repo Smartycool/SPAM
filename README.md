@@ -24,6 +24,6 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/THE_MAFIA_CLAN"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/THE_MAFIA_CLAN"><img src="https://graph.org/file/8f79d3c0d8a2b7d81d012.jpg"></a>
 
 </details>
