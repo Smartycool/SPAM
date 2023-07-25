@@ -3,7 +3,7 @@ from telethon import events, Button
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDLR as hl
 
 
-HELP_STRING = f"★ ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @PRADHAN474**"
+HELP_STRING = f"★ ™°‌ 𓂃⃪ํֶ𝙎𝙈𝘼𝙍𝙏𝙔\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @PRADHAN474**"
 
 HELP_BUTTON = [
     [
@@ -14,8 +14,8 @@ HELP_BUTTON = [
       Button.inline("✨ ᴇxᴛʀᴀ ✨", data="extra")
     ],
     [
-      Button.url("🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", "https://t.me/PRADHAN474"),
-      Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/BWANDARLOK")
+      Button.url("🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", "https://t.me/smarty_boy11"),
+      Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/THE_MAFIA_CLAN")
     ]
   ]
 
@@ -34,7 +34,7 @@ async def help(event):
     if event.sender_id in SUDO_USERS:
         try:
           await event.client.send_file(event.chat_id,
-              "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg",
+              "https://graph.org/file/8f79d3c0d8a2b7d81d012.jpg",
               caption=HELP_STRING,
               buttons=HELP_BUTTON
               )
@@ -60,7 +60,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**© @PRADHAN474**
+**© @smarty_boy11**
 """
 
                  
@@ -92,7 +92,7 @@ raid_msg = f"""
   2) {hl}craid <count> <reply to user>
 
 
-**© @PRADHAN474**
+**© @smarty_boy11**
 """
 
 spam_msg = f"""
@@ -109,8 +109,8 @@ spam_msg = f"""
   1) {hl}hang <counter>
 
 
-** © @PRADHAN474**
-"""                     
+** © @smarty_boy11**
+"""
            
            
 @X1.on(events.CallbackQuery(pattern=r"help_back"))
@@ -136,13 +136,13 @@ async def helpback(event):
                 Button.inline("🔥᪵᪳ ᴇxᴛʀᴀ 🔥᪵᪳", data="extra")
               ],
               [
-                Button.url("™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍", "https://t.me/PRADHAN474"),
-                Button.url("🥀 sᴜᴘᴘᴏʀᴛ 🥀", "https://t.me/BWANDARLOK")
+                Button.url("™°‌ 𓂃⃪ํֶ𝙎𝙈𝘼𝙍𝙏𝙔", "https://t.me/smarty_boy11"),
+                Button.url("🥀 sᴜᴘᴘᴏʀᴛ 🥀", "https://t.me/THE_MAFIA_CLAN")
               ]
             ]
           )
     else:
-        await event.answer("Make Your Own ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 Bots !! @PRADHAN474", cache_time=0, alert=True)
+        await event.answer("Make Your Own ™°‌𓂃⃪ํֶ𝙎𝙈𝘼𝙍𝙏𝙔 Bots !! @smarty_boy11", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"spam"))
